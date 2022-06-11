@@ -57,7 +57,6 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangDaljin" />
   </div>
-</div>
     
 <br />
 <br />
@@ -66,7 +65,7 @@
 <div align="center">
   <h2>:star: REPOSITORY :star:</h2>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JangDaljin&repo=nest-serverless-boilerplate" />
   </div>
 </div>
 
