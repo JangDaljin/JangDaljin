@@ -53,9 +53,18 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=JangDaljin&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   <div>
+  <br />
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangDaljin" />
   </div>
+</div>
+    
+<br />
+<br />
+<br />
+        
+<div align="center">
+  <h2>:star: REPOSITORY :star:</h2>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
   </div>
