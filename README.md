@@ -4,9 +4,17 @@
   <h1>:musical_note: HAPPINESS PROGRAMMING :musical_note:</h1> 
 </div>
 
+<br />
+<br />
+<br />
+
 <div align="center">
    <img src="https://c.tenor.com/PhpD6OvGvn8AAAAi/stitch-disney.gif" />  
 </div>
+
+<br />
+<br />
+<br />
 
 <div align="center">
   <h2>:hammer_and_wrench: STACK :hammer_and_wrench:</h2>
@@ -36,6 +44,22 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=black" />
 </div>
 
+<br />
+<br />
+<br />
+
+<div align="center">
+  <h2>:clock130: HISTORY :clock130:</h2>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=JangDaljin&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangDaljin" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
+  </div>
+</div>
 
 
 
