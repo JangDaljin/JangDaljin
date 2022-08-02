@@ -37,11 +37,13 @@
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=black" />
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=black" />
   </div>
+  <div>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=black" />
+  </div>
 
   <h3>:lock: SOON :lock:</h3>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black" />
   <img src="https://img.shields.io/badge/iOS-white?style=flat-square&logo=iOS&logoColor=black" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=black" />
 </div>
 
 <br />
