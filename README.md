@@ -70,7 +70,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JangDaljin&repo=nest-serverless-boilerplate" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JangDaljin&repo=next-boilerplate" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JangDaljin&repo=standard-daljin-next" />
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JangDaljin&repo=android-boilerplate" />
