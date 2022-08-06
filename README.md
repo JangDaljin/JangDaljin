@@ -67,7 +67,7 @@
 <div align="center">
   <h2>:star: REPOSITORY :star:</h2>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JangDaljin&repo=nest-serverless-boilerplate" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JangDaljin&repo=standard-daljin-nest" />
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JangDaljin&repo=standard-daljin-next" />
