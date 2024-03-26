@@ -20,30 +20,27 @@
   <h2>:hammer_and_wrench: STACK :hammer_and_wrench:</h2>
   <h3>:unlock: CURRENT :unlock:</h3>
   <div>
+    <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NestJS&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=Next.js&logoColor=black" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=black" />
-    <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=black" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NestJS&logoColor=black" />
-    <img src="https://img.shields.io/badge/AWS Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=black" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=black" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black" />
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=black" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=black" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=black" />
+    <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=black" />
   </div>
 
   <h3>:lock: SOON :lock:</h3>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black" />
-  <img src="https://img.shields.io/badge/iOS-white?style=flat-square&logo=iOS&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=Rust&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=black" />
 </div>
 
 <br />
