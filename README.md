@@ -56,23 +56,6 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangDaljin" />
   </div>
-    
-<br />
-<br />
-<br />
-        
-<div align="center">
-  <h2>:star: REPOSITORY :star:</h2>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JangDaljin&repo=standard-daljin-nest" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JangDaljin&repo=standard-daljin-next" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JangDaljin&repo=android-boilerplate" />
-  </div>
 </div>
-
 
 
