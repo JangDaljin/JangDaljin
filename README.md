@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&&color=0:0093E9,100:80D0C7&height=300&section=header&text=&fontSize=30" />
 
 <div align="center">
-  <h1>:musical_note: HAPPINESS PROGRAMMING :musical_note:</h1> 
+  <h1>:musical_note: 달진이네 :musical_note:</h1> 
 </div>
 
 <br />
