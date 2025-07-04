@@ -19,6 +19,12 @@
 <div align="center">
   <h2>:hammer_and_wrench: STACK :hammer_and_wrench:</h2>
   <h3>:pushpin: Current</h3>
+
+  <div>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black" />
+  </div>
+  
   <div>
     <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NestJS&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black" />
@@ -39,8 +45,6 @@
   <div>
     <img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=Rust&logoColor=black" />
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=black" />
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black" />
   </div>
 </div>
 
