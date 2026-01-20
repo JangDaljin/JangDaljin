@@ -9,7 +9,7 @@
 <br />
 
 <div align="center">
-   <img src="https://c.tenor.com/PhpD6OvGvn8AAAAi/stitch-disney.gif" />  
+   <img src="https://i.gifer.com/4Jnt.gif" />  
 </div>
 
 <br />
@@ -21,13 +21,13 @@
   <h3>:pushpin: Current</h3>
 
   <div>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Java&logoColor=black" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black" />
   </div>
   
   <div>
-    <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NestJS&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NestJS&logoColor=black" />
   </div>
   
   <div>
@@ -37,7 +37,9 @@
   </div>
   
   <div>
-    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka" />
+    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=black" />
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=black" />
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=black" />
     <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=black" />
   </div>
 
@@ -55,7 +57,7 @@
 <div align="center">
   <h2>:clock130: HISTORY</h2>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=JangDaljin&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JangDaljin&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <div>
   <br />
   <div>
