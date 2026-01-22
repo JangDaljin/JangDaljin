@@ -55,14 +55,15 @@
 <br />
 
 <div align="center">
-  <h2>:clock130: HISTORY</h2>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=JangDaljin&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <div>
   <br />
+  <!--
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangDaljin" />
   </div>
+  -->
 </div>
 
 
