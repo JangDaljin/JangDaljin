@@ -17,7 +17,7 @@
 <br />
 
 <div align="center">
-  <h2>:hammer_and_wrench: STACK :hammer_and_wrench:</h2>
+  <h2>:hammer_and_wrench: Skills :hammer_and_wrench:</h2>
   <h3>:pushpin: Current</h3>
 
   <div>
@@ -58,7 +58,6 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=JangDaljin&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <div>
-  <br />
   <!--
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangDaljin" />
